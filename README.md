@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KHATIRh
-- 👀 I’m interested in Web developing.
-- 🌱 I’m currently learning html & CSS.
-- 💞️ I’m looking to collaborate on Gitub or twitter
+- 👀 I am a student of Machine Learning.
 
 <!---
 KHATIRh/KHATIRh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
